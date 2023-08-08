@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788366335277",
+    "project_id": "ftoucch-auth",
+    "storage_bucket": "ftoucch-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788366335277:android:6eef69badccb70185147a4",
+        "android_client_info": {
+          "package_name": "com.ftoucch.firebase_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788366335277-hifmbql006ucr2i837gq4e20kuj5srig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOoojKZaW4E_vwG-ngAjXbf4KJEs8YyAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788366335277-hifmbql006ucr2i837gq4e20kuj5srig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
